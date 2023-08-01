@@ -1,0 +1,14 @@
+start_date: 2023-06-10
+end_date: 2023-06-16
+git_commit: commit f4b0f839c9ace5f5aa17f48d89d84a55f0e3440e
+
+video_ids length: 393
+public_video_ids length: 346
+length of non_shorts_video_ids: 231
+watch_minutes: 521
+
+Commentary:
+At this pace, you would have 27166.428571428572 mminutes
+in a year.
+That's 452.7738095238095 hours
+

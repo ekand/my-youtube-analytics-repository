@@ -1,0 +1,15 @@
+start_date: 2023-07-24
+end_date: 2023-07-30
+git_commit: commit f4b0f839c9ace5f5aa17f48d89d84a55f0e3440e
+
+video_ids length: 393
+public_video_ids length: 346
+length of non_shorts_video_ids: 231
+watch_minutes: 1560
+
+eka:
+comments
+given the run date, this may be missing data.
+will check this date range again in a few days
+1560*52=81120
+81120/60=1352

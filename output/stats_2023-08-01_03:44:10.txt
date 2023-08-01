@@ -1,0 +1,12 @@
+start_date: 2023-07-01
+end_date: 2023-07-31
+git_commit: commit f4b0f839c9ace5f5aa17f48d89d84a55f0e3440e
+
+video_ids length: 393
+public_video_ids length: 346
+length of non_shorts_video_ids: 231
+watch_minutes: 5151
+
+eka:
+5151*12=61812
+61812/60=1030.2
