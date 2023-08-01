@@ -1,4 +1,5 @@
 - (done) access YouTube API
 - (done) validate results against YouTube Studio
-- get list of public, non, shorts videos. get the ids
-- for that list of videos, find the estimated watch time in a given week
+- (done) get list of public, non, shorts videos. get the ids
+- (done) for that list of videos, find the estimated watch time in a given week
+- add a GUI(?)

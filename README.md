@@ -14,4 +14,6 @@ Usage
 - Execute `python valid_public_watch_hours.py` in the root directory of this project.
 - The script will print information to your console while running, and also save a file in the output directory with summary information about the run.
 
+Caveats:
+
 
